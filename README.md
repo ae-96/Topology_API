@@ -27,10 +27,15 @@ Provide the functionality to:
 --> All function requirements acheieved and tested as illustrated in test.java 
 
 --> Implementation is done in an object-oriented manner : 
-      the project consist of 3 classes :
-        - Topologylist : to store all topologies and provide the interface to the required APIs
+
+     the project consist of 3 classes :
+     
+        - Topologylist : to store all topologies and provide the interface to the required APIs.
+        
         - Topology :  represent any topology and each  topology must has an ID and a list of components
-        - Component : represents any component as JSONObject and can be easily modified to get anyinformation about any type of component
+        
+        - Component : represents any component as JSONObject and can be easily modified to get anyinformation about any type of component.
+        
         
 --> Java is used because in java it is so easy to deal with JSON files and is very helpful to implement in an object-oriented manner
 
